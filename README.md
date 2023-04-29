@@ -1,1 +1,1 @@
-# My-Own-Simple-Neural-Network
+# Practice on Generative Adversarial Networks by building some varians
